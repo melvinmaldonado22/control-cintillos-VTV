@@ -1,0 +1,32 @@
+[
+    {
+        "nombre_usuario":"Harol Morales",
+        "nickname":"@harol",
+        "contrasenia":"harol",
+        "tipo":"master"
+    },
+    {
+        "nombre_usuario":"Melvin Maldonado",
+        "nickname":"@melvin",
+        "contrasenia":"melvin",
+        "tipo":"master"
+    },
+    {
+        "nombre_usuario":"Abel Zeron",
+        "nickname":"@abel",
+        "contrasenia":"abel",
+        "tipo":"master"
+    },
+    {
+        "nombre_usuario":"Carlos Cruz",
+        "nickname":"@carlos",
+        "contrasenia":"carlos",
+        "tipo":"master"
+    },
+    {
+        "nombre_usuario":"Fredi Andrade",
+        "nickname":"@fredi",
+        "contrasenia":"fredi",
+        "tipo":"programacion"
+    }
+]
