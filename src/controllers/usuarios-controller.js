@@ -74,7 +74,8 @@ const loginUser =  async function(req, res) {
             res.send({ 
                 message: 'Inicio de sesión exitoso',
                 auth: true,
-                tipo: foundUser.tipo
+                tipo: foundUser.tipo,
+                usuario: foundUser.nombre_usuario
             });
         } else {
             res.status(401).send({ 
